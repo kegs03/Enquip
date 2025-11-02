@@ -1,5 +1,5 @@
-from SettingUI import SettingUI
-from DecryptUI import DecryptUI
+from Enkrip.scenes.SettingUI import SettingUI
+from Enkrip.scenes.DecryptUI import DecryptUI
 from tkinter import ttk
 import tkinter as tk
 
